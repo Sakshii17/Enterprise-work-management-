@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EwmpApplication<ewmp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sakshi.ewmp.EwmpApplication",
+            "projectName": "ewmp",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
